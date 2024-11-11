@@ -10,6 +10,7 @@ I developed a big portion of the backend api for this website 👨‍💻.
 <li>Flask</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">MySql</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">PostgreSQL</li>
+<li class="has-line-data" data-line-start="18" data-line-end="19">Socket.io</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">Redis</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">Celery</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">SqlAlchemy</li>
